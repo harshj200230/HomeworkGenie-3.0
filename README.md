@@ -1,4 +1,4 @@
-# Homework Genie-2.0 | Selenium | Beautiful Soup | Python
+# Homework Genie-3.0 | Selenium | Beautiful Soup | Python
 
 Homework Genie-2.0 is an automated assignment solver tool designed to streamline the process of creating solutions for assignments. With advanced web scraping capabilities using Selenium and Beautiful Soup, and efficient handling of input/output files in Python, Homework Genie-2.0 delivers fast and accurate solutions.
 
